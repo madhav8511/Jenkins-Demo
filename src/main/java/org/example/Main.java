@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("Checking if Build is automatically intiated or not");
         System.out.println("Webhook testing - 123");
+        System.out.println("Checking all interconnectivity");
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
         }
